@@ -36,6 +36,7 @@
               # go (version is specified by overlay)
               go
               gotools
+              gopls
 
             ];
           };
